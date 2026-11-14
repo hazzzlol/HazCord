@@ -1,5 +1,9 @@
-A customizable Windows desktop shell for Discord.
 <img width="1079" height="774" alt="image" src="https://github.com/user-attachments/assets/41fea722-a4c9-420d-992b-d32fa3fdc78d" />
+
+NOTICE, THIS IS IN ALPHA AND EXPECT BUGS FOR THIS PROJECT.
+
+A customizable Windows desktop shell for Discord.
+
 Hazcord runs Discord’s web app in a native Windows window and adds controls for changing its layout and appearance. It’s designed for people who want a more personal Discord interface without installing another Electron-based app.
 
 Hazcord is not a replacement for Discord: your account, servers, messages, and core Discord features still come from Discord.
